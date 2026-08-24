@@ -6,7 +6,7 @@ int main (){
 char ch ;
 cout<<"Enter a character : ";
 cin>> ch ;
-/*A-Z = 65-90
+
 
 
 cout << "ASCII value :" << int(ch) <<"\n";
